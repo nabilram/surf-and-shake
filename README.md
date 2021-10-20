@@ -3,11 +3,11 @@
 ## Overview of the statistical analysis:
 
 * Weather analytics for possible commercial/sales facility needed
-    * Feasibility study of opening Surf and Ice cream shop in Hawauu
+    * Feasibility study of opening Surf and Ice cream shop in Hawaii
     * Weather as a major factor in startup based on client's previous experience
 * Client has been provided annual weather analytics with specific station statistics
 * Client is now asking for temp statistics for specific months (June and December)\
-* Client has provided data in SQLite form
+* Client has provided source data in SQLite form
 
 ## Outcomes -- Preciptation in Jun vs. Dec
 * Statistical analysis shows these three delta in temperate data b/w Jun and Dec
