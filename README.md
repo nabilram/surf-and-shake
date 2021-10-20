@@ -1,6 +1,6 @@
 # surf-and-shake
 
-## Overview of the statistical analysis:
+## Overview:
 
 * Weather analytics for possible commercial/sales facility needed
     * Feasibility study of opening Surf and Ice cream shop in Hawaii
@@ -9,7 +9,7 @@
 * Client is now asking for temp statistics for specific months (June and December)\
 * Client has provided source data in SQLite form
 
-## Outcomes -- Preciptation in Jun vs. Dec
+## Outcomes, Preciptation in Jun vs Dec:
 * Statistical analysis shows these three delta in temperate data b/w Jun and Dec
     * Max precipitation is higher in June by two units. 
         * This data aligns with Hawaii's monsoon season which begins in June
@@ -27,7 +27,7 @@
 * December Weather Stats
     * ![Dec_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/dec_temps.PNG)
         
-## Summary of Results
+## Summary of Results:
 * On average it rains more in June than in December.
 * However, maximum precipitation is higher in December than in June.
 * There are very few datapoints and more are needed to have a better analysis. 
