@@ -9,7 +9,7 @@
 * Client is now asking for temp statistics for specific months (June and December)\
 * Client has provided source data in SQLite form
 
-## Outcomes, Preciptation in Jun vs Dec:
+## Outcomes, Precipitation in Jun vs Dec:
 * Statistical analysis shows these three delta in temperate data b/w Jun and Dec
     * Max precipitation is higher in June by two units. 
         * This data aligns with Hawaii's monsoon season which begins in June
