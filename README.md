@@ -22,10 +22,10 @@
         * That is close to a 10% difference, which some may consider statistically significant
 
 * June Weather Stats
-![June_Weather_Stats](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/Before_Refactor_2018.PNG)\
+![Jun_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/june_temps.PNG)
 
 * December Weather Stats
-![June_Weather_Stats](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/Before_Refactor_2018.PNG)
+![Dec_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/dec_temps.PNG)
 
         
 ## Summary of Results
