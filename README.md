@@ -22,11 +22,10 @@
         * That is close to a 10% difference, which some may consider statistically significant
 
 * June Weather Stats
-![Jun_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/june_temps.PNG)
+    * ![Jun_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/june_temps.PNG)
 
 * December Weather Stats
-![Dec_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/dec_temps.PNG)
-
+    * ![Dec_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/dec_temps.PNG)
         
 ## Summary of Results
 * On average it rains more in June than in December.
