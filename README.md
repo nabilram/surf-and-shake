@@ -21,10 +21,10 @@
         * Jun with 1700 datapoints and Dec with 1517
         * That a difference of over 10%, which some may consider statistically significant
 
-* June Temp Stats
+* June Temp Stats (session query + df.describe for quality check)
     * ![Jun_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/june_temps.PNG)
 
-* December Temp Stats
+* December Temp Stats (session query + df.describe for quality check)
     * ![Dec_Weather_Stats](https://github.com/nabilram/surf-and-shake/blob/main/resources/dec_temps.PNG)
         
 ## Summary of Results:
