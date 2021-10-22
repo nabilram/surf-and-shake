@@ -9,7 +9,7 @@
 * Client is now asking for temp statistics:
     * For specific months in 2010-2017 time span (Jun and Dec)
 
-## Outcomes, Precipitation in Jun vs Dec:
+## Temperature Data Obervations Jun vs Dec:
 * Statistical analysis shows these observations in temp data b/w Jun and Dec
     * Min temp is much lower in Dec by 8 degrees
         * This aligns with December having cooler temperatures in general
